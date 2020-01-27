@@ -1,4 +1,4 @@
-package com.brimanning.foundation
+package com.brimanning.demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

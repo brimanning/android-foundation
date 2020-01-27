@@ -1,4 +1,4 @@
-package com.brimanning.foundation
+package com.brimanning.demo
 
 import org.junit.Test
 
