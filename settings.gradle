@@ -1,2 +1,2 @@
-include ':demo'
-rootProject.name='foundation'
+include ':demo', ':foundation'
+rootProject.name='Foundation'
