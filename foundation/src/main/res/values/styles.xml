@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FoundationIcon">
+        <item name="android:src">@drawable/ic_cloud_circle</item>
+        <item name="android:tint">@android:color/holo_red_dark</item>
+    </style>
+</resources>
